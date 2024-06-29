@@ -1,10 +1,16 @@
 # API project
 During my project, I used the GitBash to git clone the repository from GitHub to the local computer.
+ 
   git clone HTTPS
+
 For README, the command was:
+
   touch README.md
+  
   echo "# API project" > README.md
+  
   git add README.md
+  
   git commit -m "Add README.md"
 
 I created a folder in the local python-api-challenge folder:
