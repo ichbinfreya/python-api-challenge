@@ -14,11 +14,14 @@ For README, the command was:
   git commit -m "Add README.md"
 
 I created a folder in the local python-api-challenge folder:
+ 
   mkdir WeatherPy
+
 And then I created api_keys, WeatherPY and VacationPy:
   touch WeatherPy/api_keys.py
   touch WeatherPy/WeatherPY.ipynb
   touch WeatherPY/VacationPy.ipynb
+
 For the api_keys.py, I don't want it to be accessible to the public. So I created .gitignore:
   echo "WeatherPy/api_keys.py" > .gitignore
   git add .gitignore
