@@ -1,3 +1,1 @@
-WeatherPy/__pycache__/api_keys.cpython-311.pyc
-WeatherPy/__pycache__/api_keys.cpython-39.pyc
-WeatherPy/.ipynb_checkpoints/api_keys-checkpoint.py
+WeatherPy/api_keys.py
