@@ -1,7 +1,6 @@
 # API project
-During my project, I used the GitBash to git clone the repository from GitHub to the local computer.
- 
-  git clone HTTPS
+## During my project, I used the GitBash to git clone the repository from GitHub to the local computer.
+''' git clone HTTPS
 
 For README, the command was:
 
