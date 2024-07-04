@@ -1,7 +1,2 @@
-__pycache__/
-*.pyc
-*.pyo
-.ipynb_checkpoints/
-.env
-WeatherPy/api_keys*
-
+WeatherPy/api_keys
+test.py
