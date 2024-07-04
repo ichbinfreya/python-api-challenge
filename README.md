@@ -26,5 +26,3 @@ git clone HTTPS
   git add WeatherPy.ipynb
   git push origin main
 
-  
->>>>>>> fb8438bb8d91ffe6caa32b130eed6b2fb87c360f
