@@ -1,4 +1,5 @@
 # API project
+In this project, we introduced API. The WeatherPy used the OpenWeatherMap API to retrieve weather data from the cities list. I created linear regression graph to compare various factors that can be affected by the lattiude bewtten Northern Hemisphere and Southern Hemisphere, while VacationPy used the geoViews Python library and the Geoapify API to create map visualisations.
 
 ## Set up for Git Clone and Create a folder & files
 ''' bash
